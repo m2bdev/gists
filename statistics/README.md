@@ -1,5 +1,8 @@
 # Basetool Statistics
 
+### Basic implementation
+This should be the default implementation and works if you serve the basetool business content as HTML rendered by the server.
+
 Paste the following script inside the body tag of each page that display a detailed basetool business presentation. You need to replace {BUSINESS_ID} with the integer id of the business and {CHANNEL_ID} with the integer id of the basetool channel.
 
 ```javascript
